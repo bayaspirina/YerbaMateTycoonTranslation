@@ -1,10 +1,17 @@
 ﻿Key,Type,Desc,English,Polish,Spanish,Portuguese
 Game/Additives,Text,,Additives,Dodatki,Aditivos,Aditivos
+Game/All,Text,,All,Wszystkie,,
 Game/Appearance,Text,,Appearance,Wygląd,Apariencia,Aparência
 Game/Aroma,Text,,Aroma,Aromat,Aroma,Aroma
 Game/AutoSave,Text,,AutoSave,AutoZapis,,
+Game/BugReport,Text,,"Before reporting a bug, make sure you have the current version of the game (update the game). Enter the description of your error + your email in the fields below (optional, this will help fix the error). The reported error will be accompanied by a screenshot (photo) of the game + anonymous information about your hardware and a save of your game. The best testing is testing on production:}","Przed zgłoszeniem błędu, upewnij się, że masz aktualną wersję gry (zaktualizuj grę). W polach poniżej wprowadź opis swojego błędu + swój e-mail (opcjonalnie, ułatwi to naprawienie błędu). Do zgłoszonego błędu zostanie dołączony screenshot (zdjęcie) z gry + anonimowe informacje na temat Twojego sprzętu i zapis twojej gry. Najlepsze testowanie to testowanie na produkcji : }",,
+Game/BugReportEmail,Text,,Email (optional),E-mail (opcjonalnie),,
+Game/BugReportInputField,Text,,"Enter in this field information about the error,  what exactly happened, how it happened. You can post links. Click here.","Wprowadź w to pole informację na temat błędu,  co się dokładnie wydarzyło, jak do tego doszło. Możesz dodawać linki. Kliknij tutaj.",,
+Game/BugReportSuccess,Text,,"An error has been reported. If the developer sobers up, he'll take care of your problem.","Błąd został zgłoszony. Jak developer wytrzeźwieje, to zajmie się twoim problemem.",,
 Game/Countries,Text,,Countries,Kraje,Países,Países
 Game/Create,Text,,Create,Stwórz,Crear,Crio
+Game/CreationCost,Text,,Creation Cost,Koszt Stworzenia,,
+Game/CreationDate,Text,,Creation Date,Data Utworzenia,,
 Game/DryingMethod,Text,,Drying Method,Metoda Suszenia,,
 Game/EpicRate0,Text,,The taste pierced my feet,Smak przeszył moje stopy,,
 Game/EpicRate1,Text,,For this taste I would give away my Palo Santo,Dla tego smaku oddałbym swoje Palo Santo,,
@@ -20,15 +27,20 @@ Game/FinalRateGood0,Text,,"And this is a product you should reach for, taste, ar
 Game/FinalRateGood1,Text,,"This yerba will surely find crowds of fans, it's a great product.","Ta yerba na pewno znajdzie rzesze fanów, jest bardzo dobrze.",,
 Game/FinalRateNormal0,Text,,"It's not bad, but it's also not good, a typical average product, we were expecting something more.","Nie jest źle, ale tez nie jest dobrze, typowy średniak, oczekiwaliśmy czegoś więcej.",,
 Game/FinalRateNormal1,Text,,"Yerba does not have any major disadvantages, but there are no major advantages too, yerba like yerba.","Yerba w sumie nie ma jakiś większych wad, ale nie ma też większych zalet, yerba jak yerba.",,
-Game/GameLoaded,Text,Don’t touch colors tag,<color=green>The Game Has Been Loaded</color>,<color=green>Gra Została Wczytana</color>,,
-Game/GameSaved,Text,Don’t touch colors tag,<color=red>The Game Has Been Saved</color>,<color=red>Gra Została Zapisana</color>,,
+Game/Fruits,Text,,Fruits,Owoce,,
+Game/GameLoaded,Text,Don’t touch colors tag,The Game Has Been Loaded,Gra Została Wczytana,,
+Game/GameSaved,Text,Don’t touch colors tag,The Game Has Been Saved,Gra Została Zapisana,,
+Game/Herbs,Text,,Herbs,Zioła,,
 Game/HighQuality,Text,,High,Wysoka,,
+Game/Income,Text,,Income,Dochód,,
 Game/ItIsAJoke,Text,,Is This A Joke?,To Jakiś Żart?,,
 Game/Load,Text,,Load,Wczytaj,Carga,Carga
 Game/LowQuality,Text,,Low,Niska,,
 Game/MediumQuality,Text,,Average,Średnia,,
 Game/Men,Text,,Men,Mężczyźni,,
+Game/Number,Text,,Number,Liczba,,
 Game/Ok,Text,,OK,OK,OK,OK
+Game/Other,Text,,Other,Inne,,
 Game/PackageQuality,Text,,Packaging Quality,Jakość Opakowania,,
 Game/PackageType,Text,,Package Type,Rodzaj Opakowania,,
 Game/PremiumQuality,Text,,Premium,Premium,Primo,Prêmio
@@ -36,6 +48,7 @@ Game/Price,Text,,Price,Cena,Precio,Preço
 Game/ProductReady,Text,," Finished 
  Product"," Produkt 
  Gotowy",,
+Game/Rate,Text,,Rate,Ocena,,
 Game/RateBad0,Text,,Homeless feets smells better,Stopy kloszarda pachną lepiej,,
 Game/RateBad1,Text,,No comment,Bez komentarza,,
 Game/RateBad2,Text,,"Shame, disgrace, failure","Wstyd, hańba, porażka",,
@@ -73,18 +86,26 @@ Game/ReviewStimulationAndRefreshmentFocus2,Text,,not enough attention was given 
 Game/ReviewStimulationAndRefreshmentFocus3,Text,,refreshment and stimulation is not too low,orzeźwienie i pobudzenie nie jest zbyt niskie,,
 Game/ReviewTasteFocus0,Text,,taste is not a strong element of this yerba,smak nie jest mocnym elementem tej yerby,,
 Game/ReviewTasteFocus1,Text,,the infusion taste is unique,smak naparu jest wyjątkowy,,
+Game/Sales,Text,,Units Sold,Sprzedane Opakowania,,
 Game/Save,Text,,Save,Zapisz,Guardar,Salvar
 Game/SaveName,Text,Don’t touch the things in {[]},Save {[SaveNumber]}[i2p_Zero]Save {[SaveNumber]}[i2p_One]Save {[SaveNumber]},Zapis {[SaveNumber]},,
+Game/Send,Text,,Send,Wyślij,,
+Game/Sort,Text,,Sorting:,Sortowanie:,,
+Game/SortByName,Text,,Name,Nazwa,,
+Game/SortByTax,Text,,Taxes,Podatki,,
+Game/SortByYerbaPopularity,Text,,Popularity Of Yerba,Popularność Yerby,,
 Game/Stimulation,Text,,Stimulation,Pobudzenie,Estímulo,Estimulação
 Game/TakeALoan,Text,,Take A Loan,Bierz Pożyczkę,,
 Game/TargetGroup,Text,,Target Group,Grupa Docelowa,,
 Game/Taste,Text,,Taste,Smak,Gusto,Gosto
+Game/Vegetables,Text,,Vegetables,Warzywa,,
 Game/WasteOfTime,Text,,Waste Of Time,Strata Czasu,,
 Game/Women,Text,,Women,Kobiety,Mujeres,Mulheres
+Game/YerbaCreationPhase,Text,,Yerba Creation Phase {[Phase]},Tworzenie Yerby Faza {[Phase]},,
 Game/YerbaCreationQuality,Text,,Yerba Quality,Jakość Yerby,,
 Game/YerbaMate,Text,,Yerba Mate,Yerba Mate,,
 Game/YerbaMateName,Text,,Name,Nazwa,Nombre,Nome
-Game/YerbaMateNames,Text,X Don't Translate this one,"Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana","Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana","Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana","Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana"
+Game/YerbaMateNames,Text,X Don't Translate this one,"Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ","Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ","Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ","Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ"
 Game/YerbaPrepare,Text,,Preparation,Przyrządzanie,,
 GameStart/Argentina,Text,,Argentina,Argentyna,Argentino,Argentino
 GameStart/Brazil,Text,,Brazil,Brazylia,,
@@ -95,9 +116,9 @@ GameStart/CeoName,Text,,CEO Name,Imię Szefa,,
 GameStart/CeoPersonality0,Text,,Talented,Utalentowany,,
 GameStart/CeoPersonality1,Text,,Hard-Working,Ciężko Pracujący,,
 GameStart/CeoPersonalityMainName,Text,,CEO Personality,Osobowość Szefa,,
-GameStart/CeoSpecialization0,Text,,The CEO of your company is a real miser. <color=#ccff7d>+$15k money for start</color>,Szef twojej firmy to prawdziwy dusigrosz. <color=#ccff7d>+$15k pieniędzy na start</color>,,
-GameStart/CeoSpecialization1,Text,,The CEO of your company is a true leader. <color=#ccff7d>You can hire more people</color>,Szef twojej firmy to prawdziwy przywódca. <color=#ccff7d>Możesz zatrudniać większą liczbę pracowników</color>,,
-GameStart/CeoSpecialization2,Text,,The CEO of your company has a nose for business. <color=#ccff7d>Banks are more willing to give you credit + you have better credit terms.</color>,Szef twojej firmy ma nosa do interesów. <color=#ccff7d>Banki chętniej udzielają Ci kredytów + masz lepsze warunki kredytowania</color>,,
+GameStart/CeoSpecialization0,Text,Don’t touch colors tag	,The CEO of your company is a real miser. <color=#ccff7d>+$15k money for start</color>,Szef twojej firmy to prawdziwy dusigrosz. <color=#ccff7d>+$15k pieniędzy na start</color>,,
+GameStart/CeoSpecialization1,Text,Don’t touch colors tag	,The CEO of your company is a true leader. <color=#ccff7d>You can hire more people</color>,Szef twojej firmy to prawdziwy przywódca. <color=#ccff7d>Możesz zatrudniać większą liczbę pracowników</color>,,
+GameStart/CeoSpecialization2,Text,Don’t touch colors tag	,The CEO of your company has a nose for business. <color=#ccff7d>Banks are more willing to give you credit + you have better credit terms.</color>,Szef twojej firmy ma nosa do interesów. <color=#ccff7d>Banki chętniej udzielają Ci kredytów + masz lepsze warunki kredytowania</color>,,
 GameStart/CeoSpecializationMainName,Text,,CEO Specialization,Specjalizacja Szefa,,
 GameStart/CheatModeOff,Text,,Cheat Mode Off,Tryb Oszustwa Wyłączony,,
 GameStart/CheatModeOn,Text,,Cheat Mode On,Tryb Oszustwa Włączony,,
@@ -120,15 +141,15 @@ GameStart/EducationLevel,Text,,Education Level:,Poziom Edukacji:,,
 GameStart/France,Text,,France,Francja,,
 GameStart/Germany,Text,,Germany,Niemcy,,
 GameStart/HardDifficulty,Text,,Hard,Trudny,Difícil,Difícil
-GameStart/High,Text,Don’t touch colors tag,<i><color=green>High</i></color>,<i><color=green>Wysoka</i></color>,,
+GameStart/High,Text,Don’t touch colors tag,<style=Positive>High</style>,<style=Positive>Wysoka</style>,,
 GameStart/HotYerba,Text,,Warm,Ciepła,,
 GameStart/India,Text,,India,Indie,,
 GameStart/Italy,Text,,Italy,Włochy,,
 GameStart/Japan,Text,,Japan,Japonia,,
 GameStart/Lebanon,Text,,Lebanon,Libia,,
 GameStart/LegendaryDifficulty,Text,,Legendary,Legendarny,Legendario,Lendário
-GameStart/Low,Text,Don’t touch colors tag,<i><color=red>Low</i></color>,<i><color=red>Niska</i></color>,,
-GameStart/Medium,Text,Don’t touch colors tag,<i><color=#C0C0C0>Medium</i></color>,<i><color=#C0C0C0>Średnia</i></color>,,
+GameStart/Low,Text,Don’t touch colors tag,<style=Negative>Low</style>,<style=Negative>Niska</style>,,
+GameStart/Medium,Text,Don’t touch colors tag,<style=Mediocre>Medium</style>,<style=Mediocre>Średnia</style>,,
 GameStart/MediumDifficulty,Text,,Medium,Średni,Medio,Médio
 GameStart/Paraguay,Text,,Paraguay,Paragwaj,,
 GameStart/Poland,Text,,Poland,Polska,,
@@ -143,10 +164,11 @@ GameStart/USA,Text,,USA,USA,,
 GameStart/Uruguay,Text,,Uruguay,Urugwaj,,
 GameStart/YerbaMatePopularity,Text,,Yerba Mate Popularity:,Popularność Yerba Mate:,,
 GameStart/YerbaMateSmokeFire,Text,,Fire,Ogień,Fuego,Fogo
+GameStart/YerbaMateSmokeHotAir,Text,,Hot Air,Gorące Powietrze,,
 GameStart/YerbaPrepareSpecialization,Text,,Preparation — Specialization,Przyrządzanie — Specjalizacja,,
-GameStart/YerbaSmokeHotAir,Text,,Hot Air,Gorące Powietrze,,
 GameStart/YerbaSmokeSpecialization,Text,,Drying — Specialization,Suszenie — Specjalizacja,,
-Jokes/NeverWinNumber,Text,,"Your company has gone bankrupt, but you have one more chance, the system drew a number from 1 to 100, if you will guess this number, you will be able to return to the game.","Twoja firma zbankrutowała, ale masz jeszcze jedną szansę, system wylosował liczbę od 1 do 100, jeśli zgadniesz tę liczbę, to będziesz mógł powrócić do gry",,
+Jokes/EpicRateJoke,Text,Don't touch style tag,"Something amazing, <style=Important>I JOKED!</style>","Coś niesamowitego, <style=Important>ŻARTOWAŁEM!</style>",,
+Jokes/NeverWinNumber,Text,,"Your company has gone bankrupt, but you have one more chance, the system drew a number from 0 to 99, if you will guess this number, you will be able to return to the game.","Twoja firma zbankrutowała, ale masz jeszcze jedną szansę, system wylosował liczbę od 0 do 99, jeśli zgadniesz tę liczbę, to będziesz mógł powrócić do gry",,
 Jokes/Quote0,Text,,„It is Better to win than lose” - DonislawDev,„Lepiej wygrać niż przegrać” - DonislawDev,,
 Jokes/Quote1,Text,,„Creating the best yerba is the key to winning” - DonislawDev,„Kluczem do wygrania jest tworzenie dobrych yerb” - DonislawDev,,
 Jokes/Quote2,Text,,„May Wojciech's feet bless you” - DonislawDev,„Niech stopy Wojciecha Cię błogosławią” - DonislawDev,,
@@ -154,7 +176,61 @@ Jokes/Quote3,Text,,„I wish you a nice day and good yerba” - DonislawDev,„�
 Jokes/Quote4,Text,,„Calling yerba tea is like comparing this game to Wrticher 3” - DonislawDev,"„Nazywanie yerby herbatą, jest jak porównywanie tej gry do Wiedzmuna 3” - DonislawDev",,
 Jokes/Quote5,Text,,„Each sold copy of this game is another pack of yerba for the developer” - DonislawDev,„Każda sprzedana kopia tej gry to kolejna paczka yerby dla developera” - DonislawDev,,
 Jokes/Quote6,Text,,„Only 1/1000000 players can see this text because all other players are not a failure like you” - DonislawDev,"„Tylko 1/1000000 graczy może zobaczyć ten tekst, ponieważ wszyscy inni gracze nie są porażką jak ty” - DonislawDev",,
-YerbaAdditive/0Additive,Text,,Pure,Czysta,Puro,Puro
+Settings/BugReportName,Text,,Report Bug,Zgłoś Błąd,,
+Settings/Contact,Text,,Contact,Kontakt,,
+Settings/E-mail,Text,,"Got an idea what I can add/change in-game, got any business question? Got a question about the game? Write it here.
+*If you wish to report a bug, please use the ""Report Bug"" button in-game (settings panel), don't use this e-mail.","Masz pomysł, co mogę dodać/zmienić w grze? Masz jakieś pytanie biznesowe? Masz pytanie związane z grą? Napisz je tutaj.
+* Jeśli chcesz zgłosić błąd, użyj przycisku „Zgłoś błąd”, który znajduje się w grze (panel ustawień), nie zgłaszaj błędów na ten e-mail.",,
+Settings/FullScreen,Text,,Full Screen,Pełny Ekran,,
+Settings/GuiAnimation,Text,,GUI Animation,Animacja GUI,,
+Settings/GuiAnimationFillLeft,Text,,Fill Left,Wypełnianie Lewo,,
+Settings/GuiAnimationFillRadial,Text,,Fill Radial,Wypełnianie Radialnie,,
+Settings/GuiAnimationNone,Text,,None,Brak,,
+Settings/GuiAnimationRotate,Text,,Rotate,Obracanie,,
+Settings/GuiAnimationScale,Text,,Scale,Skalowanie,,
+Settings/GuiClickToClose,Text,,GUI Click = Close,GUI Klik = Zamknij,,
+Settings/GuiFade,Text,,GUI Fade,GUI Zanikanie,,
+Settings/GuiScale,Text,,GUI Scale,GUI Skalowanie,,
+Settings/HighContrast,Text,,High Contrast,Wysoki Kontrast,,
+Settings/HudScale,Text,,HUD Scale,HUD Skalowanie,,
+Settings/Language,Text,,Game Language,Język Gry,,
+Settings/LanguageEnglish,Text,,English,Angielski,Inglés,Inglês
+Settings/LanguagePolish,Text,,Polish,Polski,Polaco,Polonês
+Settings/LanguagePortuguese,Text,,Portuguese,Portugalski,Portugués,Português
+Settings/LanguageSpanish,Text,,Spanish,Hiszpański,Español,Espanhol
+Settings/LowerGraphic,Text,,Lower Graphic,Niższa Grafika,,
+Settings/Mods,Text,,Mods,Mody,,
+Settings/Music,Text,,Music,Muzyka,Música,Música
+Settings/Music0,Text,X DON'T TRANSLATE IT!!!,Serwerowe Tango,Serwerowe Tango,Serwerowe Tango,Serwerowe Tango
+Settings/Music1,Text,X DON'T TRANSLATE IT!!!,Stópki,Stópki,Stópki,Stópki
+Settings/Music2,Text,X DON'T TRANSLATE IT!!!,LSD,LSD,LSD,LSD
+Settings/Music3,Text,X DON'T TRANSLATE IT!!!,Masakra Bosej Stopy,Masakra Bosej Stopy,Masakra Bosej Stopy,Masakra Bosej Stopy
+Settings/Music4,Text,X DON'T TRANSLATE IT!!!,<s>Herbata</s> Mate,<s>Herbata</s> Mate,<s>Herbata</s> Mate,<s>Herbata</s> Mate
+Settings/Music5,Text,X DON'T TRANSLATE IT!!!,50 twarzy Yerby,50 twarzy Yerby,50 twarzy Yerby,50 twarzy Yerby
+Settings/Music6,Text,X DON'T TRANSLATE IT!!!,Spadające matero,Spadające matero,Spadające matero,Spadające matero
+Settings/Music7,Text,X DON'T TRANSLATE IT!!!,Dubre Ziele,Dubre Ziele,Dubre Ziele,Dubre Ziele
+Settings/Music8,Text,X DON'T TRANSLATE IT!!!,Nie mam pomysłu,Nie mam pomysłu,Nie mam pomysłu,Nie mam pomysłu
+Settings/MusicTrack,Text,,Music Track,Ścieżka Dźwiękowa,,
+Settings/OpenAnalitycs,Text,,Open Analytics,Otwórz Analitykę,,
+Settings/PrivacyPolicy,Text,,Privacy Policy,Polityka Prywatności,,
+Settings/RandomMusic,Text,,Random,Losowa,,
+Settings/Resolution,Text,,Resolution,Rozdzielczość,,
+Settings/Sfx,Text,,SFX,SFX,,
+Settings/TextScale,Text,,Text Scale,Skalowanie Tekstu,,
+Settings/VSync,Text,,VSync,VSync,,
+ToolTips/CEOPersonalityHelpShort,Text,,"<style=Important>Talented</style> = bigger CEO statistics for start. 
+<style=Important>Hard-Working</style> = smaller statistics for start, but faster CEO progress.","<style=Important>Utalentowany</style> = większe statystyki szefa na start.
+<style=Important>Ciężko Pracujący</style> = mniejsze statystyki na start, ale szybszy rozwój szefa.",,
+ToolTips/CheatModeHelpShort,Text,,"Cheat mode provides a huge amount of money. Medals and rankings do not work, <style=Important>if you want to play a normal game, do not check this box.</style>","Tryb oszustwa zapewnia ogromną ilość pieniędzy, nie działają medale i rankingi, <style=Important>jeśli chcesz zagrać w normalną grę, nie zaznaczaj tego pola.</style>",,
+ToolTips/ClickForMore,Text,Don't touch style tag<style>,<style=Important>Click For More</style>,<style=Important>Kliknij Po Więcej</style>,,
+ToolTips/CountryHelpLong,Text,Don't touch <style> tag,"<style=Important>Higher taxes</style> means lower profits, a <style=Important>higher level of education</style> provides easier access to better employees. <style=Important>Higher employee salaries</style> mean higher company maintenance costs, <style=Important>higher yerba popularity</style> makes it easier to sell yerba in your country. In addition, selling yerba in the country where your company is located is free and provides higher profits.","<style=Important>Wyższe podatki</style> to mniejsze zyski, <style=Important>wyższy poziom edukacji</style> zapewnia łatwiejszy dostęp do lepszych pracowników. <style=Important>Wyższe pensje pracowników</style> to wyższe koszty utrzymania firmy, <style=Important>wyższa popularność yerby</style> to większa sprzedaż yerby w danym kraju. Dodatkowo sprzedaż yerby w kraju, w którym znajduje się twoja firma, jest darmowa, zapewnia większe zyski.",,
+ToolTips/CountryHelpShort,Text,,"Countries have their strengths and weaknesses, some countries are better for start and others are worse.","Kraje mają swoje mocne i słabe strony, jedne kraje są lepsze na start, a inne gorsze.",,
+ToolTips/PolandTaxJoke,Text,,"We won't tax everything, but it is worth trying!","Wszystkiego nie opodatkujemy, ale próbować WARTO!",,
+ToolTips/YerbaPrepareSpecializationHelpShort,Text,,"In the game you can prepare yerba <style=Important>cold and warm</style>, you can choose your specialization <style=Important>(more experience at the start), you can still prepare yerba with a different specialization.</style>","W grze można przyrządzać yerbe na <style=Important>zimno i ciepło</style>, możesz wybrać swoja specjalizacje <style=Important>(większe doświadczenie na start), nadal można przyrządzać yerby o innej specjalizacji.</style>",,
+ToolTips/YerbaPriceHelpLong,Text,,"The price affects the yerba rating. You can also sell yerba with minimal profits (budget dedication, market dominance). Also, remember that consumers can pay more for premium yerba and less for low-quality yerba. Also, additives such as caviar, gold, diamonds, and others, make yerba more ""premium"".","Cena wpływa na ocenę yerby. Możesz też sprzedawać yerbe przy minimalnych zyskach (poświęcenie budżetu, dominacja rynku). Pamiętaj też, że konsumenci są w stanie zapłacić więcej za yerbe premium, a mniej za yerbe niskiej jakości. Dodatkowo dodatki typu: kawior, złoto, diamenty i inne czynią yerbe bardziej ""premium"".",,
+ToolTips/YerbaPriceHelpShort,Text,,"The price cannot be too high or too low, adjust the price of the product. Besides, the price must be within the range on the left side (next to the field for entering the price).","Cena nie może być za wysoka ani za niska, dopasuj cenę do produktu. Dodatkowo cena musi mieścić się w widełkach po lewej stronie (obok pola na wpisanie ceny).",,
+ToolTips/YerbaSmokeSpecializationHelpShort,Text,,"In the game you can dry yerba with <style=Important>fire or hot air</style>, you can choose your specialization <style=Important>(more experience at the start), you can still use a different drying method than specialization.</style>","W grze można suszyć yerbe za pomocą <style=Important>ognia lub gorącego powietrza</style>, możesz wybrać swoją specjalizację <style=Important>(większe doświadczenie na start), nadal można korzystać z innej metody suszenia niż specjalizacja.</style>",,
+YerbaAdditive/0Additive,Text,,Nothing,Nic,Nada,Nada
 YerbaAdditive/100Additive,Text,,Myosotis,Niezapominajka,,
 YerbaAdditive/101Additive,Text,,Basil,Bazylia,,
 YerbaAdditive/102Additive,Text,,Olive,Oliwka,,
