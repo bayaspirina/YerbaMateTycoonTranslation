@@ -9,7 +9,7 @@ Yerba Mate Tycoon Game Translation
 
 <h1><b>How to edit translation?</b></h1>
 1. You can edit the csv file using "Libre Office" or other software.
-<img src="https://i.imgur.com/xZaX9r6.png" />
-For separator option, check only "," (comma), and text encoding must be set to utf-8. When you will be saving the file, choose "csv" format, <b>if you need help, contact me at "donislawdev@gmail.com".</b>
+<img src="https://i.imgur.com/50IiQXF.png" />
+For separator option, check only ";" (Semicolon), and text encoding must be set to utf-8. When you will be saving the file, choose "csv" format, <b>if you need help, contact me at "donislawdev@gmail.com".</b>
 
 Translation don't need to look the same, we mainly focus on the meaning.
