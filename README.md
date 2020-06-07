@@ -8,7 +8,7 @@ Yerba Mate Tycoon Game Translation
 - Don't change Companies names to real one
 
 <h1><b>How to edit translation?</b></h1>
-1. You can edit the csv file using "Libre Office" or other software.
+1. You can edit the csv file using "Libre Office", "Microsoft Excel" or other software.
 <img src="https://i.imgur.com/50IiQXF.png" />
 For separator option, check only ";" (Semicolon), and text encoding must be set to utf-8. When you will be saving the file, choose "csv" format, <b>if you need help, contact me at "donislawdev@gmail.com".</b>
 
