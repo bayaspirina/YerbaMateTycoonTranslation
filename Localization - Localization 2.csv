@@ -1,0 +1,376 @@
+Game/Additives;Text;;Additives;Dodatki;Aditivos;Aditivos
+Game/All;Text;;All;Wszystkie;Todo;
+Game/Appearance;Text;;Appearance;Wygl?d;Apariencia;Aparência
+Game/Aroma;Text;;Aroma;Aromat;Aroma;Aroma
+Game/AutoSave;Text;;AutoSave;AutoZapis;AutoGuardar;
+Game/BugReport;Text;;Before reporting a bug, make sure you have the current version of the game (update the game). Enter the description of your error + your email in the fields below (optional, this will help fix the error). The reported error will be accompanied by a screenshot (photo) of the game + anonymous information about your hardware and a save of your game. The best testing is testing on production:};Przed zg?oszeniem b??du, upewnij si?, ?e masz aktualn? wersj? gry (zaktualizuj gr?). W polach poni?ej wprowad? opis swojego b??du + swój e-mail (opcjonalnie, u?atwi to naprawienie b??du). Do zg?oszonego b??du zostanie do??czony screenshot (zdj?cie) z gry + anonimowe informacje na temat Twojego sprz?tu i zapis twojej gry. Najlepsze testowanie to testowanie na produkcji : };Antes de reportar un error, asegurarse de tener la version actual del juego(Actualiza el juego). Escribe la descripcion de tu error + tu email en los campos inferiores (opcional, esto va a ayudar a arreglar el juego). El error reportado debe estar acompañado por una captura de pantalla (foto) del juego + información anonima sobre tu hardware y una copia de tu partida. El mejor testeo es testeado en producción:};
+Game/BugReportEmail;Text;;raven;E-mail (opcjonalnie);Email (opcional);
+Game/BugReportInputField;Text;;Enter in this field information about the error,  what exactly happened, how it happened. You can post links. Click here.;Wprowad? w to pole informacj? na temat b??du,  co si? dok?adnie wydarzy?o, jak do tego dosz?o. Mo?esz dodawa? linki. Kliknij tutaj.;Escribe en este campo información sobre el error, exactamente que ocurrio, como ocurrio. Puedes publicar links. Haz click aquí.;
+Game/BugReportSuccess;Text;;An error has been reported. If the developer sobers up, he'll take care of your problem.;B??d zosta? zg?oszony. Jak developer wytrze?wieje, to zajmie si? twoim problemem.;Un error ha sido reportado. Si el desarrollador se despabila, se va a ocupar de tu problema.;
+Game/Countries;Text;;Countries;Kraje;Países;Países
+Key;Type;Desc;English;Polish;Spanish;Portuguese
+Game/Create;Text;;Create;Stwórz;Crear;Crio
+Game/CreationCost;Text;;Creation Cost;Koszt Stworzenia;Costo de creación;
+Game/CreationDate;Text;;Creation Date;Data Utworzenia;Fecha de creación;
+Game/DryingMethod;Text;;Drying Method;Metoda Suszenia;Metodo de secado;
+Game/EpicRate0;Text;;The taste pierced my feet;Smak przeszy? moje stopy;El gusto agujereo mis pies;
+Game/EpicRate1;Text;;For this taste I would give away my Palo Santo;Dla tego smaku odda?bym swoje Palo Santo;Por este gusto daria mi Palo Santo;
+Game/EpicRate2;Text;;Eighth wonder of the world;Ósmy cud ?wiata;La octava maravilla del mundo;
+Game/EpicRate3;Text;;My taste buds got orgasm;Moje kubki smakowe dosta?y orgazmu;Mis papilas gustativas tuvieron un orgasmo;
+Game/EpicRate4;Text;;It looks like shit and tastes even better;Wygl?da jak gówno a smakuje jeszcze lepiej;;
+Game/Fans;Text;;Fans:;Fani:;Aficionados:;Fãs:
+Game/FinalEpicRate0;Text;;For a long time nothing so good appeared on the market, just buy this yerba and drink it.;Dawno na rynku nie pojawi?o si? nic tak dobrego, nic tylko kupowa? i pi?.;Hace mucho tiempo que nada tan bueno aparecia en el mercado, solo compra esta yerba y tomala.;
+Game/FinalEpicRate1;Text;;White raven in the world of yerba, this taste will become the classic.;Bia?y kruk w ?wiecie yerb, ten smak przejdzie do klasyki.;Un cuervo blanco en el mundo de la yerba, el gusto va a volverse un clasico.;
+Game/FinalRateBad0;Text;;If this yerba would cost $1, it still wouldn't be worth this price.;Je?li ta yerba kosztowa?aby $1, to nadal nie by?aby warta tej ceny.;Si esta yerba costara $1, aún no lo valdría.;
+Game/FinalRateBad1;Text;;A low-quality product that doesn't stand out from the competitions.;Produkt niskiej jako?ci niczym niewyró?niaj?cy si? na tle konkurencji.;Un producto de baja calidad que no sobresale de sus competencia.;
+Game/FinalRateGood0;Text;;And this is a product you should reach for, taste, aroma, appearance — that's it.;I to jest produkt, po który warto si?gn??, smak, zapach, wygl?d to jest to.;Este es un producto que deberias buscar, gusto, aroma, apariencia — solo eso.;
+Game/FinalRateGood1;Text;;This yerba will surely find crowds of fans, it's a great product.;Ta yerba na pewno znajdzie rzesze fanów, jest bardzo dobrze.;Esta yerba seguro tendra una multitud de aficionados, es un gran producto.;
+Game/FinalRateNormal0;Text;;It's not bad, but it's also not good, a typical average product, we were expecting something more.;Nie jest ?le, ale tez nie jest dobrze, typowy ?redniak, oczekiwali?my czego? wi?cej.;No es mala, tampoco es buena, un tipico producto promedio, esperabamos algo más.;
+Game/FinalRateNormal1;Text;;Yerba does not have any major disadvantages, but there are no major advantages too, yerba like yerba.;Yerba w sumie nie ma jaki? wi?kszych wad, ale nie ma te? wi?kszych zalet, yerba jak yerba.;La yerba no tiene ninguna desventaja , pero tanto hay ninguna ventaja, yerba como yerba.;
+Game/Fruits;Text;;Fruits;Owoce;Frutas;
+Game/GameLoaded;Text;Don’t touch colors tag;The Game Has Been Loaded;Gra Zosta?a Wczytana;El Juego Ha Sido Cargado;
+Game/GameSaved;Text;Don’t touch colors tag;The Game Has Been Saved;Gra Zosta?a Zapisana;El Juego Ha Sido Guardado;
+Game/Herbs;Text;;Herbs;Zio?a;Hierbas;
+Game/HighQuality;Text;;High;Wysoka;Alta;
+Game/Income;Text;;Income;Dochód;Ingresos;
+Game/ItIsAJoke;Text;;Is This A Joke?;To Jaki? ?art?;Es una broma?;
+Game/Load;Text;;Load;Wczytaj;Carga;Carga
+Game/LowQuality;Text;;Low;Niska;Baja;
+Game/MediumQuality;Text;;Average;?rednia;Media;
+Game/Men;Text;;Men;M??czy?ni;Hombres;
+Game/Number;Text;;Number;Liczba;Numero;
+Game/Ok;Text;;OK;OK;OK;OK
+Game/Other;Text;;Other;Inne;Otros;
+Game/PackageQuality;Text;;Packaging Quality;Jako?? Opakowania;Calidad de empaquetado;
+Game/PackageType;Text;;Package Type;Rodzaj Opakowania;Tipo de empaquetado;
+Game/PremiumQuality;Text;;Premium;Premium;Premium;Prêmio
+Game/Price;Text;;Price;Cena;Precio;Preço
+Game/ProductReady;Text;;Finished;;Terminado;
+"Product""";Produkt;;;;;
+"Gotowy""";;;;;;
+Game/Rate;Text;;Rate;Ocena;Puntuación;
+Game/RateBad0;Text;;Homeless feets smells better;Stopy kloszarda pachn? lepiej;Los pies de un indigente huelen mejor;
+Game/RateBad1;Text;;No comment;Bez komentarza;Sin comentarios;
+Game/RateBad2;Text;;Shame, disgrace, failure;Wstyd, ha?ba, pora?ka;Vergüenza, desgracia, fracaso;
+Game/RateBad3;Text;;I would not give it to a dog;Nie da?bym tego nawet psu;No se lo daria a un perro;
+Game/RateBad4;Text;;My urine tastes better;Mój mocz smakuje lepiej;Mi orina sabe mejor;
+Game/RateBad5;Text;;This is some failure;To jest jaka? pora?ka;Esto es un fracaso;
+Game/RateBad6;Text;;Mercy!!!;Lito?ci!!!;Piedad!!!;
+Game/RateGood0;Text;;Classic;Klasyka;Clasico;
+Game/RateGood1;Text;;Something new;Co? nowego;Algo nuevo;
+Game/RateGood2;Text;;The taste caresses taste buds;Smak pie?ci kubki smakowe;El gusto no tiene papilas gustativas;
+Game/RateGood3;Text;;Interesting connection;Ciekawe po??czenie;Interesante conexión;
+Game/RateGood4;Text;;Unique;Unikat;Unico;
+Game/RateGood5;Text;;A good balance of flavors;Dobry balans smaków;Un buen balance de sabores;
+Game/RateNormal0;Text;;Nothing special;Nic specjalnego;Nada especial;
+Game/RateNormal1;Text;;I do not recommend or advise against;Nie polecam ani nie odradzam;No la recomiendo ni desaconsejo;
+Game/RateNormal2;Text;;Could be better;Mog?o by? lepiej;Podria ser mejor;
+Game/RateNormal3;Text;;You are capable of more;Sta? Was na wi?cej;Eres capaz de más;
+Game/RateNormal4;Text;;I was expecting something more;Spodziewa?em si? czego? wi?cej;Estaba esperando algo más;
+Game/RateNormal5;Text;;Okay, but do not do more;Dobra, ale wi?cej nie róbcie;Está bien, pero no hagas más;
+Game/Refreshment;Text;;Refreshment;Orze?wienie;Refresco;Refresco
+Game/ReviewAdditiveRate0;Text;;is a poorly balanced additive here;jest tutaj ?le zbalansowanym dodatkiem;esto es un pobre balance de aditivos;
+Game/ReviewAdditiveRate1;Text;;is a well-balanced additive here;jest tutaj dobrze zbalansowanym dodatkiem;esto es un buen balance de aditivos;
+Game/ReviewAdditiveRepeat;Text;;it is a pity that the company has recently released yerba with similar additives;szkoda, ?e firma niedawno wypu?ci?a ju? yerbe z podobnymi dodatkami;es una lastima que la compania haya sacado una yerba con aditivos similares;
+Game/ReviewApperanceFocus0;Text;;yerba appearance is some grim joke;wygl?d yerby jest jakimi? ponurym ?artem;la apariencia de la yerba es una terrible broma;
+Game/ReviewApperanceFocus1;Text;;yerba looks great;yerba prezentuje si? znakomicie;la yerba se ve muy bien;
+Game/ReviewAromaFocus0;Text;;the aroma is not properly balanced;aromat nie jest odpowiednio zbalansowany;el aroma no esta apropiadamente balanceado;
+Game/ReviewAromaFocus1;Text;;the aroma is very pleasant;aromat jest bardzo przyjemny;el aroma es muy placentero;
+Game/ReviewPopularAdditive;Text;;A popular additive has been selected, it will definitely increase sales;dobrano popularny dodatek, to na pewno zwi?kszy sprzeda?;Un aditivo popular ha sido seleccionado, definitavemente aumentara las ventas;
+Game/ReviewRefreshmentAndStimulationBalance0;Text;;Bad balance of stimulation/refreshment;Z?y balans pobudzenia/orze?wienia;Mal balance de estimulación/refrescamiento;
+Game/ReviewRefreshmentAndStimulationBalance1;Text;;Good balance of stimulation/refreshment;Dobry balans pobudzenia/orze?wienia;Buen balance de estimulación/refrescamiento;
+Game/ReviewRefreshmentAndStimulationBalance2;Text;;Fantastic balance of stimulation/refreshment;Fantastyczny balans pobudzenia/orze?wienia;Fantastico balance de estimulación/refrescamiento;
+Game/ReviewStimulationAndRefreshmentFocus0;Text;;not enough attention was given to refreshment;za ma?o uwagi po?wi?cono orze?wieniu;no se le ha dado suficiente atención al refrescamiento;
+Game/ReviewStimulationAndRefreshmentFocus1;Text;;not enough attention was given to stimulation;za ma?o uwagi po?wi?cono pobudzeniu;no se le ha dado suficiente atención a la estimulación;
+Game/ReviewStimulationAndRefreshmentFocus2;Text;;not enough attention was given to refreshment/stimulation;za ma?o uwagi po?wi?cono orze?wieniu/pobudzeniu;no se le ha dado suficiente atención al refrescamiento/estimulación;
+Game/ReviewStimulationAndRefreshmentFocus3;Text;;refreshment and stimulation is not too low;orze?wienie i pobudzenie nie jest zbyt niskie;refrecamiento y estimulación no son muy bajos;
+Game/ReviewTasteFocus0;Text;;taste is not a strong element of this yerba;smak nie jest mocnym elementem tej yerby;el gusto no es un elemento fuerte de esta yerba;
+Game/ReviewTasteFocus1;Text;;the infusion taste is unique;smak naparu jest wyj?tkowy;el gusto de esta infusión es unico;
+Game/Sales;Text;;Units Sold;Sprzedane Opakowania;Unidades Vendidas;
+Game/Save;Text;;Save;Zapisz;Guardar;Salvar
+Game/SaveName;Text;Don’t touch the things in {[]};Save {[SaveNumber]}[i2p_Zero]Save {[SaveNumber]}[i2p_One]Save {[SaveNumber]};Zapis {[SaveNumber]};;
+Game/Send;Text;;Send;Wy?lij;Enviar;
+Game/Sort;Text;;Sorting:;Sortowanie:;Ordenar:;
+Game/SortByName;Text;;Name;Nazwa;Nombre;
+Game/SortByTax;Text;;Taxes;Podatki;Impuestos;
+Game/SortByYerbaPopularity;Text;;Popularity Of Yerba;Popularno?? Yerby;Popularidad de la Yerba;
+Game/Stimulation;Text;;Stimulation;Pobudzenie;Estímulación;Estimulação
+Game/TakeALoan;Text;;Take A Loan;Bierz Po?yczk?;Tomar un prestamo;
+Game/TargetGroup;Text;;Target Group;Grupa Docelowa;Grupo Objetivo;
+Game/Taste;Text;;Taste;Smak;Gusto;Gosto
+Game/Vegetables;Text;;Vegetables;Warzywa;Vegetales;
+Game/WasteOfTime;Text;;Waste Of Time;Strata Czasu;Perdida de Tiempo;
+Game/Women;Text;;Women;Kobiety;Mujeres;Mulheres
+Game/YerbaCreationPhase;Text;;Yerba Creation Phase {[Phase]};Tworzenie Yerby Faza {[Phase]};Fase de Creación de la Yeba;
+Game/YerbaCreationQuality;Text;;Yerba Quality;Jako?? Yerby;Calidad de la Yerba;
+Game/YerbaMate;Text;;Yerba Mate;Yerba Mate;Yerba Mate;
+Game/YerbaMateName;Text;;Name;Nazwa;Nombre;Nome
+Game/YerbaMateNames;Text;X Don't Translate this one;Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ;Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ;Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ;Nobliza Gauch,Umanda,Patarito,Tardui,Selucta,CBSd,Rosmunte,Gurnani,Yaduar,Virude Mate,Kurti,Campesno,La Hojda,Cruz We Nalta,Pitore,Codon,Canris,Indiga,Urnion,Traus,Sul Mate,Jerdovia,La Herced,CachMate,La Trubia,Mate Grin,Itrambey,Play Pito,Tacuy,El Tajaro,Guryakí,Baraoo,Laranjeira,Sincerida,Frede Rito,Meta Mate,Aragana,Ruvich,Caubona,Mate Nativ
+Game/YerbaPrepare;Text;;Preparation;Przyrz?dzanie;Preparación;
+GameStart/Argentina;Text;;Argentina;Argentyna;Argentina;Argentino
+GameStart/Brazil;Text;;Brazil;Brazylia;Brasil;
+GameStart/Canada;Text;;Canada;Kanada;Canada;
+GameStart/CeoAge;Text;;CEO Age;Wiek Szefa;Edad de CEO;
+GameStart/CeoAvatar;Text;;CEO Avatar;Awatar Szefa;Avatar de CEO;
+GameStart/CeoName;Text;;CEO Name;Imi? Szefa;Nombre de CEO;
+GameStart/CeoPersonality0;Text;;Talented;Utalentowany;Talentoso;
+GameStart/CeoPersonality1;Text;;Hard-Working;Ci??ko Pracuj?cy;Trabajador;
+GameStart/CeoPersonalityMainName;Text;;CEO Personality;Osobowo?? Szefa;Personalidad de CEO;
+GameStart/CeoSpecialization0;Text;Don’t touch colors tag;The CEO of your company is a real miser. <color=#ccff7d>+$15k money for start</color>;Szef twojej firmy to prawdziwy dusigrosz. <color=#ccff7d>+$15k pieni?dzy na start</color>;El CEO de tu compania es tremendo miserable. <color=#ccff7d>+$15k dinero para el inicio</color>;
+GameStart/CeoSpecialization1;Text;Don’t touch colors tag;The CEO of your company is a true leader. <color=#ccff7d>You can hire more people</color>;Szef twojej firmy to prawdziwy przywódca. <color=#ccff7d>Mo?esz zatrudnia? wi?ksz? liczb? pracowników</color>;El CEO de tu compania es un verdadero lider. <color=#ccff7d>Puedes emplear más personas</color>;
+GameStart/CeoSpecialization2;Text;Don’t touch colors tag;The CEO of your company has a nose for business. <color=#ccff7d>Banks are more willing to give you credit + you have better credit terms.</color>;Szef twojej firmy ma nosa do interesów. <color=#ccff7d>Banki ch?tniej udzielaj? Ci kredytów + masz lepsze warunki kredytowania</color>;El CEO de tu compania tiene olfato para los negocios. <color=#ccff7d>Los bancos estan más dispuestos a darte prestamos + tienes mejores terminos de prestamos.</color>;
+GameStart/CeoSpecializationMainName;Text;;CEO Specialization;Specjalizacja Szefa;Especialización del CEO;
+GameStart/CheatModeOff;Text;;Cheat Mode Off;Tryb Oszustwa Wy??czony;Trucos apagados;
+GameStart/CheatModeOn;Text;;Cheat Mode On;Tryb Oszustwa W??czony;Trucos encendidos;
+GameStart/Chile;Text;;Chile;Chile;Chile;
+GameStart/China;Text;;China;Chiny;China;China
+GameStart/Chose;Text;;Choose;Wybierz;Escoger;Escolher
+GameStart/Close;Text;;Close;Zamknij;Cerrar;Fechar
+GameStart/ColdYerba;Text;;Cold (terere);Zimna (terere);Frio (tereré);
+GameStart/CompanyLocation;Text;;Company Location;Lokalizacja Firmy;Localización de la Compania;
+GameStart/CompanyLogo;Text;;Company Logo;Logo Firmy;Logo de la Compania;
+GameStart/CompanyName;Text;;Company Name;Nazwa Firmy;Nombre de la Compania;
+GameStart/CountryWillBeLowered;Text;;Will Decrease;Zmaleje;Va a Disminuir;
+GameStart/CountryWillRaise;Text;;Will Raise;Wzro?nie;Va a Aumentar;
+GameStart/CountryWillRaiseFast;Text;;Will Raise Quickly;B?dzie Szybko Rosn??;Va a aumentar rapidamente;
+GameStart/CountryWillRaiseSlow;Text;;Will Slowly Raise;B?dzie Wolno Rosn??;Va a aumentar lentamente;
+GameStart/CountryWorkersSalary;Text;;Employees Salaries:;Pensje Pracowników:;Salarios de los empleados:;
+GameStart/DifficultyMainName;Text;;Difficulty;Poziom Trudno?ci;Dificultad;Dificuldade
+GameStart/EasyDifficulty;Text;;Easy;?atwy;Fácil;Fácil
+GameStart/EducationLevel;Text;;Education Level:;Poziom Edukacji:;Nivel de educación:;
+GameStart/France;Text;;France;Francja;Francia;
+GameStart/Germany;Text;;Germany;Niemcy;Alemania;
+GameStart/HardDifficulty;Text;;Hard;Trudny;Difícil;Difícil
+GameStart/High;Text;Don’t touch colors tag;<style=Positive>High</style>;<style=Positive>Wysoka</style>;<style=Positive>Alto</style>;
+GameStart/HotYerba;Text;;Warm;Ciep?a;Calido;
+GameStart/India;Text;;India;Indie;India;
+GameStart/Italy;Text;;Italy;W?ochy;Italia;
+GameStart/Japan;Text;;Japan;Japonia;Japón;
+GameStart/Lebanon;Text;;Lebanon;Libia;Libano;
+GameStart/LegendaryDifficulty;Text;;Legendary;Legendarny;Legendario;Lendário
+GameStart/Low;Text;Don’t touch colors tag;<style=Negative>Low</style>;<style=Negative>Niska</style>;<style=Negative>Bajo</style>;
+GameStart/Medium;Text;Don’t touch colors tag;<style=Mediocre>Medium</style>;<style=Mediocre>?rednia</style>;<style=Mediocre>Medio</style>;
+GameStart/MediumDifficulty;Text;;Medium;?redni;Medio;Médio
+GameStart/Paraguay;Text;;Paraguay;Paragwaj;Paraguay;
+GameStart/Poland;Text;;Poland;Polska;Polonia;
+GameStart/Russia;Text;;Russia;Rosja;Rusia;
+GameStart/StartCompany;Text;;Set Up A Company;Za?ó? Firm?;Establece una empresa;
+GameStart/StartCountry;Text;;Country;Kraj;País;País
+GameStart/Syria;Text;;Syria;Syria;Siria;
+GameStart/Tax;Text;;Tax Rate:;Wysoko?? Podatków:;Tasa de impuesto:;Taxa de imposto:
+GameStart/Turkey;Text;;Turkey;Turcja;Turquia;
+GameStart/UK;Text;;UK;Wielka Brytania;Reino Unido;
+GameStart/USA;Text;;USA;USA;Estados Unidos;
+GameStart/Uruguay;Text;;Uruguay;Urugwaj;Uruguay;
+GameStart/YerbaMatePopularity;Text;;Yerba Mate Popularity:;Popularno?? Yerba Mate:;Popularidad de la Yerba Mate:;
+GameStart/YerbaMateSmokeFire;Text;;Fire;Ogie?;Fuego;Fogo
+GameStart/YerbaMateSmokeHotAir;Text;;Hot Air;Gor?ce Powietrze;Aire caliente;
+GameStart/YerbaPrepareSpecialization;Text;;Preparation — Specialization;Przyrz?dzanie — Specjalizacja;Preparación  — Especialización;
+GameStart/YerbaSmokeSpecialization;Text;;Drying — Specialization;Suszenie — Specjalizacja;Secado  — Especialización;
+Jokes/EpicRateJoke;Text;Don't touch style tag;Something amazing, <style=Important>I JOKED!</style>;Co? niesamowitego, <style=Important>?ARTOWA?EM!</style>;Algo sorprendente, <style=Important>Bromeaba!</style>;
+Jokes/NeverWinNumber;Text;;Your company has gone bankrupt, but you have one more chance, the system drew a number from 0 to 99, if you will guess this number, you will be able to return to the game.;Twoja firma zbankrutowa?a, ale masz jeszcze jedn? szans?, system wylosowa? liczb? od 0 do 99, je?li zgadniesz t? liczb?, to b?dziesz móg? powróci? do gry;Tu compania ha quebrado, pero tienes otra oportunidad. El sistema eligio un numero del 0 al 99, si lo adivinas, podras volver al juego.;
+Jokes/Quote0;Text;;„It is Better to win than lose” - DonislawDev;„Lepiej wygra? ni? przegra?” - DonislawDev;„Es mejor ganar que perder” - DonislawDev;
+Jokes/Quote1;Text;;„Creating the best yerba is the key to winning” - DonislawDev;„Kluczem do wygrania jest tworzenie dobrych yerb” - DonislawDev;„Crear la mejor yerba es la clave para ganar” - DonislawDev;
+Jokes/Quote2;Text;;„May Wojciech's feet bless you” - DonislawDev;„Niech stopy Wojciecha Ci? b?ogos?awi?” - DonislawDev;„Que los pies de Wojciech te bendigan” - DonislawDev;
+Jokes/Quote3;Text;;„I wish you a nice day and good yerba” - DonislawDev;„?ycz? Ci mi?ego dnia i dobrej yerby” - DonislawDev;„Te deseo un buen dia y buena yerba” - DonislawDev;
+Jokes/Quote4;Text;;„Calling yerba tea is like comparing this game to Wrticher 3” - DonislawDev;„Nazywanie yerby herbat?, jest jak porównywanie tej gry do Wiedzmuna 3” - DonislawDev;„Decirle té a la yerba es como comparar este juego con Wrticher 3” - DonislawDev;
+Jokes/Quote5;Text;;„Each sold copy of this game is another pack of yerba for the developer” - DonislawDev;„Ka?da sprzedana kopia tej gry to kolejna paczka yerby dla developera” - DonislawDev;„Cada copia vendida de este juego es otro paquete de yerba para el desarrollador” - DonislawDev;
+Jokes/Quote6;Text;;„Only 1/1000000 players can see this text because all other players are not a failure like you” - DonislawDev;„Tylko 1/1000000 graczy mo?e zobaczy? ten tekst, poniewa? wszyscy inni gracze nie s? pora?k? jak ty” - DonislawDev;„Solo 1 de cada 1000000 jugadores pueden ver este texto porque los otros jugadores no son fracasos como tú” - DonislawDev;
+Settings/BugReportName;Text;;Report Bug;Zg?o? B??d;Reporta un Problema;
+Settings/Contact;Text;;Contact;Kontakt;Contacto;
+Settings/E-mail;Text;;Got an idea what I can add/change in-game, got any business question? Got a question about the game? Write it here.;;¿Tienes alguna idea de que puedo agregar/cambiar en el juego, tienes alguna pregunta sobre negocios? ¿Tienes alguna pregunta sobre el juego? Escribela aquí.;
+*If you wish to report a bug;"please use the """"Report Bug"""" button in-game (settings panel)";"don't use this e-mail.""";Masz pomys?, co mog? doda?/zmieni? w grze? Masz jakie? pytanie biznesowe? Masz pytanie zwi?zane z gr?? Napisz je tutaj.;;;
+* Je?li chcesz zg?osi? b??d;u?yj przycisku „Zg?o? b??d”;który znajduje si? w grze (panel ustawie?);"nie zg?aszaj b??dów na ten e-mail.""";;;
+Settings/FullScreen;Text;;Full Screen;Pe?ny Ekran;Pantalla Completa;
+Settings/GuiAnimation;Text;;GUI Animation;Animacja GUI;Animación de la interfaz;
+Settings/GuiAnimationFillLeft;Text;;Fill Left;Wype?nianie Lewo;Rellenar izquierda;
+Settings/GuiAnimationFillRadial;Text;;Fill Radial;Wype?nianie Radialnie;Rellenar radial;
+Settings/GuiAnimationNone;Text;;None;Brak;Ninguno;
+Settings/GuiAnimationRotate;Text;;Rotate;Obracanie;Rotar;
+Settings/GuiAnimationScale;Text;;Scale;Skalowanie;Escala;
+Settings/GuiClickToClose;Text;;GUI Click = Close;GUI Klik = Zamknij;Click en la Interfaz = Cerrar;
+Settings/GuiFade;Text;;GUI Fade;GUI Zanikanie;Desvanecer interfaz;
+Settings/GuiScale;Text;;GUI Scale;GUI Skalowanie;Escala de Interfaz;
+Settings/HighContrast;Text;;High Contrast;Wysoki Kontrast;Alto Contraste;
+Settings/HudScale;Text;;HUD Scale;HUD Skalowanie;Escala de HUD;
+Settings/Language;Text;;Game Language;J?zyk Gry;Idioma del juego;
+Settings/LanguageEnglish;Text;;English;Angielski;Inglés;Inglês
+Settings/LanguagePolish;Text;;Polish;Polski;Polaco;Polonês
+Settings/LanguagePortuguese;Text;;Portuguese;Portugalski;Portugués;Português
+Settings/LanguageSpanish;Text;;Spanish;Hiszpa?ski;Español;Espanhol
+Settings/LowerGraphic;Text;;Lower Graphic;Ni?sza Grafika;Graficos Bajos;
+Settings/Mods;Text;;Mods;Mody;Mods;
+Settings/Music;Text;;Music;Muzyka;Música;Música
+Settings/Music0;Text;X DON'T TRANSLATE IT!!!;Serwerowe Tango;Serwerowe Tango;Serwerowe Tango;Serwerowe Tango
+Settings/Music1;Text;X DON'T TRANSLATE IT!!!;Stópki;Stópki;Stópki;Stópki
+Settings/Music2;Text;X DON'T TRANSLATE IT!!!;LSD;LSD;LSD;LSD
+Settings/Music3;Text;X DON'T TRANSLATE IT!!!;Masakra Bosej Stopy;Masakra Bosej Stopy;Masakra Bosej Stopy;Masakra Bosej Stopy
+Settings/Music4;Text;X DON'T TRANSLATE IT!!!;<s>Herbata</s> Mate;<s>Herbata</s> Mate;<s>Herbata</s> Mate;<s>Herbata</s> Mate
+Settings/Music5;Text;X DON'T TRANSLATE IT!!!;50 twarzy Yerby;50 twarzy Yerby;50 twarzy Yerby;50 twarzy Yerby
+Settings/Music6;Text;X DON'T TRANSLATE IT!!!;Spadaj?ce matero;Spadaj?ce matero;Spadaj?ce matero;Spadaj?ce matero
+Settings/Music7;Text;X DON'T TRANSLATE IT!!!;Dubre Ziele;Dubre Ziele;Dubre Ziele;Dubre Ziele
+Settings/Music8;Text;X DON'T TRANSLATE IT!!!;Nie mam pomys?u;Nie mam pomys?u;Nie mam pomys?u;Nie mam pomys?u
+Settings/MusicTrack;Text;;Music Track;?cie?ka D?wi?kowa;Pista de musica;
+Settings/OpenAnalitycs;Text;;Open Analytics;Otwórz Analityk?;Abrir Analiticas;
+Settings/PrivacyPolicy;Text;;Privacy Policy;Polityka Prywatno?ci;Politica de Privacidad;
+Settings/RandomMusic;Text;;Random;Losowa;Aleatorio;
+Settings/Resolution;Text;;Resolution;Rozdzielczo??;Resolución;
+Settings/Sfx;Text;;SFX;SFX;SFX;
+Settings/TextScale;Text;;Text Scale;Skalowanie Tekstu;Escala de Texto;
+Settings/VSync;Text;;VSync;VSync;VSync;
+ToolTips/CEOPersonalityHelpShort;Text;;<style=Important>Talented</style> = bigger CEO statistics for start.;;<style=Important>Talentoso</style> = estadisticas de CEO más altas para el inicio.;
+<style=Important>Hard-Working</style> = smaller statistics for start;"but faster CEO progress.""";<style=Important>Utalentowany</style> = wi?ksze statystyki szefa na start.;;;;
+<style=Important>Ci??ko Pracuj?cy</style> = mniejsze statystyki na start;"ale szybszy rozwój szefa.""";;;;;
+ToolTips/CheatModeHelpShort;Text;;Cheat mode provides a huge amount of money. Medals and rankings do not work, <style=Important>if you want to play a normal game, do not check this box.</style>;Tryb oszustwa zapewnia ogromn? ilo?? pieni?dzy, nie dzia?aj? medale i rankingi, <style=Important>je?li chcesz zagra? w normaln? gr?, nie zaznaczaj tego pola.</style>;Cheat mode proporciona una gran cantidad de dinero. Las medallas y clasificaciones no funcionan, <style=Important>si quieres jugar un juego normal, no marques este casillero.</style>;
+ToolTips/ClickForMore;Text;Don't touch style tag<style>;<style=Important>Click For More</style>;<style=Important>Kliknij Po Wi?cej</style>;<style=Important>Haz click para más</style>;
+ToolTips/CountryHelpLong;Text;Don't touch <style> tag;<style=Important>Higher taxes</style> means lower profits, a <style=Important>higher level of education</style> provides easier access to better employees. <style=Important>Higher employee salaries</style> mean higher company maintenance costs, <style=Important>higher yerba popularity</style> makes it easier to sell yerba in your country. In addition, selling yerba in the country where your company is located is free and provides higher profits.;<style=Important>Wy?sze podatki</style> to mniejsze zyski, <style=Important>wy?szy poziom edukacji</style> zapewnia ?atwiejszy dost?p do lepszych pracowników. <style=Important>Wy?sze pensje pracowników</style> to wy?sze koszty utrzymania firmy, <style=Important>wy?sza popularno?? yerby</style> to wi?ksza sprzeda? yerby w danym kraju. Dodatkowo sprzeda? yerby w kraju, w którym znajduje si? twoja firma, jest darmowa, zapewnia wi?ksze zyski.;<style=Important>Mayores impuestos</style> significan menores ganancias, un <style=Important>mayor nivel de educación</style> proporciona acceso a mejores trabajadores. <style=Important>Salarios mas altos</style> significan mayores costos de mantenimiento para la compania, <style=Important>mayor popularidad de yerba</style> hace que sea más facil vender yerba en tu país. Es más, vender yerba en el país donde esta localizada tu compania es gratis  y da mayores beneficios.;
+ToolTips/CountryHelpShort;Text;;Countries have their strengths and weaknesses, some countries are better for start and others are worse.;Kraje maj? swoje mocne i s?abe strony, jedne kraje s? lepsze na start, a inne gorsze.;Los paises tienen sus virtudes y defectos, algunos paises son mejores para empezar y otros peores.;
+ToolTips/PolandTaxJoke;Text;;We won't tax everything, but it is worth trying!;Wszystkiego nie opodatkujemy, ale próbowa? WARTO!;No vamos a ponerle impuestos a todo, ¡pero vale la pena intentar!;
+ToolTips/YerbaPrepareSpecializationHelpShort;Text;;In the game you can prepare yerba <style=Important>cold and warm</style>, you can choose your specialization <style=Important>(more experience at the start), you can still prepare yerba with a different specialization.</style>;W grze mo?na przyrz?dza? yerbe na <style=Important>zimno i ciep?o</style>, mo?esz wybra? swoja specjalizacje <style=Important>(wi?ksze do?wiadczenie na start), nadal mo?na przyrz?dza? yerby o innej specjalizacji.</style>;En el juego puedes preparar yerba <style=Important>fria y calida</style>, puedes elegir tu especialización <style=Important>(mas experiencia al inicio), igualmente puedes prepara yerba con una distinta especialización.</style>;
+ToolTips/YerbaPriceHelpLong;Text;;"The price affects the yerba rating. You can also sell yerba with minimal profits (budget dedication, market dominance). Also, remember that consumers can pay more for premium yerba and less for low-quality yerba. Also, additives such as caviar, gold, diamonds, and others, make yerba more ""premium"".";"Cena wp?ywa na ocen? yerby. Mo?esz te? sprzedawa? yerbe przy minimalnych zyskach (po?wi?cenie bud?etu, dominacja rynku). Pami?taj te?, ?e konsumenci s? w stanie zap?aci? wi?cej za yerbe premium, a mniej za yerbe niskiej jako?ci. Dodatkowo dodatki typu: kawior, z?oto, diamenty i inne czyni? yerbe bardziej ""premium"".";"El precio afecta el puntaje de la yerba. Tambien puedes vender yerba con minima ganancia (dedicación de presupuesto, dominación del mercado). Tambien, recuerda que el consumidor paga más por yerba premium y menos por yerba de baja calidad. Tambien, aditivos como caviar, oro, diamantes, y otros, hacen a la yerba más ""premium"".";
+ToolTips/YerbaPriceHelpShort;Text;;The price cannot be too high or too low, adjust the price of the product. Besides, the price must be within the range on the left side (next to the field for entering the price).;Cena nie mo?e by? za wysoka ani za niska, dopasuj cen? do produktu. Dodatkowo cena musi mie?ci? si? w wide?kach po lewej stronie (obok pola na wpisanie ceny).;El precio no puede ser muy bajo o muy alto, ajusta el precio del producto. Aparte, el precio debe estar en el rango del lado izquierdo (al lado del campo para introducir el precio).;
+ToolTips/YerbaSmokeSpecializationHelpShort;Text;;In the game you can dry yerba with <style=Important>fire or hot air</style>, you can choose your specialization <style=Important>(more experience at the start), you can still use a different drying method than specialization.</style>;W grze mo?na suszy? yerbe za pomoc? <style=Important>ognia lub gor?cego powietrza</style>, mo?esz wybra? swoj? specjalizacj? <style=Important>(wi?ksze do?wiadczenie na start), nadal mo?na korzysta? z innej metody suszenia ni? specjalizacja.</style>;En el juego puedes secar yerba con <style=Important>fuego o aire caliente</style>, puedes elegir tu especialización <style=Important>(más experiencia al inicio), igualmente puedes utilizar un metodo de secado distinto al de tu especialización.</style>;
+YerbaAdditive/0Additive;Text;;Nothing;Nic;Nada;Nada
+YerbaAdditive/100Additive;Text;;Myosotis;Niezapominajka;Nomeolvides;
+YerbaAdditive/101Additive;Text;;Basil;Bazylia;Albahaca;
+YerbaAdditive/102Additive;Text;;Olive;Oliwka;Oliva;
+YerbaAdditive/103Additive;Text;;Almond;Migda?;Almendra;
+YerbaAdditive/104Additive;Text;;Peanut;Orzech Arachidowy;Maní;
+YerbaAdditive/105Additive;Text;;Brazil Nut;Orzech Brazylijski;Nuez de Brasil;
+YerbaAdditive/106Additive;Text;;Macadamia;Makadamia;Nuez de Macadamia;
+YerbaAdditive/107Additive;Text;;Acorn;?o??d?;Bellota;
+YerbaAdditive/108Additive;Text;;Cheese;Ser;Queso;
+YerbaAdditive/109Additive;Text;;Blue Cheese;Ser Ple?niowy;Queso Azul;
+YerbaAdditive/10Additive;Text;;Lime;Limonka;Lima;
+YerbaAdditive/110Additive;Text;;Bacon;Boczek;Tocino;
+YerbaAdditive/111Additive;Text;;Butter;Mas?o;Manteca;
+YerbaAdditive/112Additive;Text;;Chestnut;Kasztan;Castaña;
+YerbaAdditive/113Additive;Text;;Cookie;Ciastko;Galletita;
+YerbaAdditive/114Additive;Text;;Ice Cream;Lody;Helado;
+YerbaAdditive/115Additive;Text;;Jelly;Galaretka;Gelatina;
+YerbaAdditive/116Additive;Text;;Oyster;Ostryga;Ostra;
+YerbaAdditive/117Additive;Text;;Spinach;Szpinak;Espinaca;
+YerbaAdditive/118Additive;Text;;Sushi;Sushi;Sushi;
+YerbaAdditive/119Additive;Text;;Pizza;Pizza;Pizza;
+YerbaAdditive/11Additive;Text;;Plum;?liwka;Ciruela;
+YerbaAdditive/120Additive;Text;;Caviar;Kawior;Caviar;
+YerbaAdditive/121Additive;Text;;Cappuccino;Cappuccino;Cappuccino;
+YerbaAdditive/122Additive;Text;;Donair;Kebab;Donair;
+YerbaAdditive/123Additive;Text;;Fugu Fish;Ryba Fugu;Pez Globo;
+YerbaAdditive/124Additive;Text;;Rice;Ry?;Arroz;
+YerbaAdditive/125Additive;Text;;Rosemary;Rozmaryn;Romero;
+YerbaAdditive/126Additive;Text;;Beet;Burak;Remolacha;
+YerbaAdditive/127Additive;Text;;Brussels Sprouts;Brukselka;Repollitos de Brucelas;
+YerbaAdditive/128Additive;Text;;Cherry Tomato;Pomidor Koktaljowy;Tomate Cherry;
+YerbaAdditive/129Additive;Text;;Silver;Srebro;Plata;
+YerbaAdditive/12Additive;Text;;Watermelon;Arbuz;Sandia;
+YerbaAdditive/130Additive;Text;;Gold;Z?oto;Oro;
+YerbaAdditive/131Additive;Text;;Diamond;Diament;Diamante;
+YerbaAdditive/132Additive;Text;;Uranium Ore;Ruda Uranu;Mineral de Uranio;
+YerbaAdditive/133Additive;Text;;Corn;Kukurydza;Maíz;
+YerbaAdditive/134Additive;Text;;Donut;P?czek;Dona;
+YerbaAdditive/135Additive;Text;;Fuchsia;Fuksja;Fucsia;
+YerbaAdditive/136Additive;Text;;Iris;Irys;Lirio;
+YerbaAdditive/137Additive;Text;;Lotus;Lotos;Loto;
+YerbaAdditive/138Additive;Text;;PanCake;Nale?nik;Panqueque;
+YerbaAdditive/139Additive;Text;;Chamomile;Rumianek;Manzanilla;
+YerbaAdditive/13Additive;Text;;Red Grape;Czerwone Winogrono;Uva Roja;
+YerbaAdditive/140Additive;Text;;Lapacho;Lapacho;Lapacho;
+YerbaAdditive/141Additive;Text;;Catuaba;Catuaba;Catuaba;
+YerbaAdditive/142Additive;Text;;Ilex Guayusa;Ilex Guayusa;Guayusa;
+YerbaAdditive/143Additive;Text;;Boldo;Boldo;Boldo;
+YerbaAdditive/14Additive;Text;;Dark Grape;Ciemne Winogrono;Uva Negra;
+YerbaAdditive/15Additive;Text;;Green Grape;Zielone Winogrono;Uva Verde;
+YerbaAdditive/16Additive;Text;;Kiwi;Kiwi;Kiwi;
+YerbaAdditive/17Additive;Text;;Apricot;Morela;Damasco;
+YerbaAdditive/18Additive;Text;;Peach;Brzoskwinia;Durazno;
+YerbaAdditive/19Additive;Text;;UFO Peach;UFO Brzoskwinia;Durazano Paraguayo;
+YerbaAdditive/1Additive;Text;;Red Apple;Czerwone Jab?ko;Manzana Roja;
+YerbaAdditive/20Additive;Text;;Raspberry;Malina;Frambuesa;
+YerbaAdditive/21Additive;Text;;Strawberry;Truskawka;Frutilla;
+YerbaAdditive/22Additive;Text;;Cherry;Wi?nia;Cereza;
+YerbaAdditive/23Additive;Text;;Blueberry;Borówka Ameryka?ska;Arandano;
+YerbaAdditive/24Additive;Text;;Blackberry;Je?yna;Mora;
+YerbaAdditive/25Additive;Text;;Wild Strawberry;Poziomka;Frutilla Silvestre;
+YerbaAdditive/26Additive;Text;;Red Currant;Czerwona Porzeczka;Grosella;
+YerbaAdditive/27Additive;Text;;Date;Daktyl;Datil;
+YerbaAdditive/28Additive;Text;;Gooseberry;Agrest;Uva Crispa;
+YerbaAdditive/29Additive;Text;;Avocado;Awokado;Aguacate;
+YerbaAdditive/2Additive;Text;;Pear;Gruszka;Pera;
+YerbaAdditive/30Additive;Text;;Coconut;Kokos;Coco;
+YerbaAdditive/31Additive;Text;;Mango;Mango;Mango;
+YerbaAdditive/32Additive;Text;;Pineapple;Ananas;Anana;
+YerbaAdditive/33Additive;Text;;Pomelo;Pomelo;Pomelo;
+YerbaAdditive/34Additive;Text;;Papaya;Papaja;Papaya;
+YerbaAdditive/35Additive;Text;;Melon;Melon;Melón;
+YerbaAdditive/36Additive;Text;;Quince;Pigwa;Mebrillo;
+YerbaAdditive/37Additive;Text;;Granat;Granat;Granada;
+YerbaAdditive/38Additive;Text;;Fig;Figa;Higo;
+YerbaAdditive/39Additive;Text;;Lychee;Liczi;Lichi;
+YerbaAdditive/3Additive;Text;;Green Apple;Zielone Jab?ko;Manzana Verde;
+YerbaAdditive/40Additive;Text;;Rhubarb;Rabarbar;Ruibarbo;
+YerbaAdditive/41Additive;Text;;Barberry;Berberys;Barberi;
+YerbaAdditive/42Additive;Text;;Rowanberry;Jarz?bina;Azarollo;
+YerbaAdditive/43Additive;Text;;Dog Rose;Dzika Ró?a;Rosa Canina;
+YerbaAdditive/44Additive;Text;;Pitahaya;Pitaja;Fruta del Dragón;
+YerbaAdditive/45Additive;Text;;Carambola;Karambola;Carambola;
+YerbaAdditive/46Additive;Text;;Durian;Durian;Durián;
+YerbaAdditive/47Additive;Text;;Rambutan;Rambutan;Rambután;
+YerbaAdditive/48Additive;Text;;Annona;Annona;Annona;
+YerbaAdditive/49Additive;Text;;Persimmon;Kaki (Persymona);Caqui;
+YerbaAdditive/4Additive;Text;;Yellow Pear;?ó?ta Gruszka;Pera Amarilla;
+YerbaAdditive/50Additive;Text;;Passion Fruit;Marakuja;Fruta de la Pasión;
+YerbaAdditive/51Additive;Text;;Pepino Melon;Melon Pepino;Melon de Arbol;
+YerbaAdditive/52Additive;Text;;Horned Melon;Ogórek Kiwano;Kiwano;
+YerbaAdditive/53Additive;Text;;Kumquat;Kumkwat;Naranjo Enano;
+YerbaAdditive/54Additive;Text;;Mangosteen;Mangostan;Mangostán;
+YerbaAdditive/55Additive;Text;;Tamarillo;Tamarillo;Tamarillo;
+YerbaAdditive/56Additive;Text;;Snake Fruit;Salak (W??owy Owoc);Salak;
+YerbaAdditive/57Additive;Text;;Physalis;Physalis;Uchuva;
+YerbaAdditive/58Additive;Text;;Noni;Noni (Morwa Indyjska);Noni;
+YerbaAdditive/59Additive;Text;;Jack Fruit;D?akfrut;Yaca;
+YerbaAdditive/5Additive;Text;;Banana;Banan;Banana;
+YerbaAdditive/60Additive;Text;;Chive;Szczypiorek;Cebollín;
+YerbaAdditive/61Additive;Text;;Carrot;Marchewka;Zanahoria;
+YerbaAdditive/62Additive;Text;;Pumpkin;Dynia;Zapallo;
+YerbaAdditive/63Additive;Text;;Onion;Cebula;Cebolla;
+YerbaAdditive/64Additive;Text;;Chili Pepper;Papryka Chili;Pimiento;
+YerbaAdditive/65Additive;Text;;Garlic;Czosnek;Ajo;
+YerbaAdditive/66Additive;Text;;Guarana;Guarana;Guarana;
+YerbaAdditive/67Additive;Text;;Honey;Miód;Miel;
+YerbaAdditive/68Additive;Text;;Coffee;Kawa;Café;
+YerbaAdditive/69Additive;Text;;Cinnamon;Cynamon;Canela;
+YerbaAdditive/6Additive;Text;;Lemon;Cytryna;Limón;
+YerbaAdditive/70Additive;Text;;Stevia;Stewia;Stevia;
+YerbaAdditive/71Additive;Text;;Tea;Herbata;Té;
+YerbaAdditive/72Additive;Text;;Chocolate;Czekolada;Chocolate;
+YerbaAdditive/73Additive;Text;;Cactus;Kaktus;Cactus;
+YerbaAdditive/74Additive;Text;;Mint;Mi?ta;Menta;
+YerbaAdditive/75Additive;Text;;Ginger;Imbir;Gengibre;
+YerbaAdditive/76Additive;Text;;Aloe;Aloes;Aloe Vera;
+YerbaAdditive/77Additive;Text;;Hop;Chmiel;Lupulo;
+YerbaAdditive/78Additive;Text;;Alga;Alga;Alga;
+YerbaAdditive/79Additive;Text;;Bamboo;Bambus;Bambú;
+YerbaAdditive/7Additive;Text;;Tangerine;Mandarynka;Mandarina;
+YerbaAdditive/80Additive;Text;;Milk;Mleko;Leche;
+YerbaAdditive/81Additive;Text;;Pumpkin Seeds;Pestki Dyni;Semillas de Zapallo;
+YerbaAdditive/82Additive;Text;;Sunflower Seeds;Pestki S?onecznika;Semillas de Girasol;
+YerbaAdditive/84Additive;Text;;Wine;Wino;Vino;
+YerbaAdditive/83Additive;Text;;Beer;Piwo;Cerveza;
+YerbaAdditive/85Additive;Text;;Walnut;Orzech W?oski;Nuez;
+YerbaAdditive/86Additive;Text;;Wheat;Pszenica;Trigo;
+YerbaAdditive/87Additive;Text;;Hazelnut;Orzech Laskowy;Avellana;
+YerbaAdditive/88Additive;Text;;Pistachio;Pistacja;Pistacho;
+YerbaAdditive/89Additive;Text;;Spruce Branch;?wierk;Rama de Abeto;
+YerbaAdditive/8Additive;Text;;Orange;Pomara?cza;Naranja;
+YerbaAdditive/90Additive;Text;;Oak Leaf;Li?? D?bu;Hoja de Roble;
+YerbaAdditive/91Additive;Text;;Morel;Smardz;Morchella;
+YerbaAdditive/92Additive;Text;;Mold;Ple??;Moho;
+YerbaAdditive/93Additive;Text;;Yeast;Dro?d?e;Levadura;
+YerbaAdditive/94Additive;Text;;Mandrake;Mandragora;Mandrágora;
+YerbaAdditive/95Additive;Text;;Hemp;Konopia;Cáñamo;
+YerbaAdditive/96Additive;Text;;Lemongrass;Trawa Cytrynowa;Pasto de Limón;
+YerbaAdditive/97Additive;Text;;Spices;Przyprawy;Especias;
+YerbaAdditive/98Additive;Text;;Rose;Ró?a;Rosa;
+YerbaAdditive/99Additive;Text;;Lavenda;Lawenda;Lavanda;
+YerbaAdditive/9Additive;Text;;Grapefruit;Grejpfrut;;
